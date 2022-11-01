@@ -4,6 +4,6 @@ https://f2wb67weddle.onrender.com
 
 Resource Class: Games \
 Attributes:
-- Genre (string)
-- Cost (number)
-- Format (string)
+- game_name (string)
+- cost (number)
+- genre (string)
